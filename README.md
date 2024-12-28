@@ -16,7 +16,8 @@ This is a simple console application that asks the user to input their age. It e
 3. Build and run the program.
 4. Follow the on-screen prompts to input your age.
 
-## Example
-*go to example.py
+## Python version
+1. I made an python version too!
+2. its in main.py code!!
 
 
